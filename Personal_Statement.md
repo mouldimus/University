@@ -1,7 +1,7 @@
 # Thomas Hayward
 #### Business Owner | Former Electrical/Mechanical Engineer | Aspiring Software Engineer
 
-My name is Thomas Hayward, and I'm not your typical computer science applicant. As a sports retail business owner with a background in mechanical and electrical engineering, I've embarked on a unique journey that has led me to a passion for computer science. I hope this will prove to you that my passion for computers is genuine and I would make an excellent student.
+My name is Thomas Hayward, and I'm not your typical computer science applicant. As a sports retail business owner with a background in mechanical and electrical engineering, I've embarked on a unique journey that has led me to a passion for computer science. I hope this statement will prove to you that my passion for computers is genuine and I would make an excellent student.
 
 Check out my [GitHub profile here](https://github.com/mouldimus) and my [ecommerce website here.](https://sportstore.co.uk)
 
@@ -14,7 +14,7 @@ The more and more I learnt about programming languages, the more and more I real
 
 ## Self-Learning Journey
 
-I've been though so many courses on Udemy, YouTube and I'm currently studying at Pitman-Training in Ipswich. Some of my favourite courses/tutorials have been:
+While most of my learning has been through, hands-on tasks, reading code on my website, trying to understand, edit or fix it. I've been though so many courses on Udemy, YouTube and I'm currently studying at Pitman-Training in Ipswich. Some of my favourite courses/tutorials have been:
 
 - NetworkChuck - [you need to learn BASH scripting RIGHT NOW!!](https://www.youtube.com/watch?v=SPwyp2NG-bE&list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS) - YouTube
 - NetworkChuck - [Linux for Hackers (and everyone) // FREE Course for Beginners](https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL) - YouTube
