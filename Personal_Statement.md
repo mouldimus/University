@@ -1,19 +1,16 @@
 # Thomas Hayward
 #### Business Owner | Former Electrical/Mechanical Engineer | Aspiring Software Engineer
 
-My name is Thomas Hayward, and I'm not your typical computer science applicant. As a sports retail business owner with a background in mechanical and electrical engineering, I've embarked on a unique journey that has led me to a passion for computer science. I hope this statement will prove to you that my passion for computers is genuine and I would make an excellent student.
+As an inherent problem solver and challenge-seeker, 
+
+As a sports retail business owner with a background in mechanical and electrical engineering, I've always gravitated towards problem solving which inevitably led me to computers as the world has become increasingly technocentric. Through studying computer science at your university, I hope to be....
 
 Check out my [GitHub profile here](https://github.com/mouldimus) and my [ecommerce website here.](https://sportstore.co.uk)
 
 ## Motivation for Studying Computer Science
-I've always loved computers. For a long time, I loved them just because they were fun to play games on, then one day my dad said computers are made up of 1s and 0s. I thought it was witchcraft! How a computer could understand a buch of 1s and 0s, and turn it into MarioKart. Then as I got older, I started using them for more and more technical tasks. Like bypassing the schools internet security system, using task manager to play online games(not my finest moment), or creating a fully comprehensive expenses spreadsheet 8 years in the making. This is when I realised computers were not just limited to games, they could do so much more. You could even run an entire business from a computer.
-
-I think the love that I have for programming/problem solving now, has *always* been there, I could just never articulate *what it was that I loved*. For example, when I was in school I found I really loved excel spreadsheets; then, when I was doing my apprenticeship I fell in love with panel wiring, troubleshooting and system maintenance. It was only when I was running my own company, teaching myself the basics of computer programming, after our web developer quit, that I realised, I love programming, it was like the ultimate problem to solve, there is always so much to learn! And find out how it all works. I love programming. 
-
-The more and more I learnt about programming languages, the more and more I realised I know nothing. There's this whole other category of languages out there, that run so much of the world we live in, and only 0.25% of the population that speak it! We need more computer nerds!
-
-When I was a 11 or 12 years old, I was subscribed to a magazine called the "NewScientist". And every month it'd release a new magazine based on the lastest developments in the given field. One month, I became obsessed with the Technology release. I remember there was this innovative bracelet that could sense hand gestures through the kinecic movement in your wrist. By measuring what muscles in your wrist were activated, it could decipher what gesture and ultimately what command you wanted to send. I remember thinking how awesome it'd be to have a controller for you life on your wrist. That just by *literally* flicking the wrist you could turn on your stereo system, or accept a call, or skip channels on the television. Of course we ended up going the smart phone/smart watch route, regardless still awesome.
-
+Ever since my dad told me that the games I played as a child were essentially 1s and 0s, I became intrigued by... 
+As a kid I enjoyed reading magazines about the latest technology developments, and I still remember one especially innovative bracelet that used kenetic energy to... 
+During my apprenticeship I thoroughly enjoyed panel wiring, troubleshooting and system maintenance. Later as a business owner, after our web developer quit, I taught myself the basics of computer programming to maintain our online store, which made me realise that programming was the ultimate problem to solve and that there was so much more to learn.
 
 ## Self-Learning Journey
 
