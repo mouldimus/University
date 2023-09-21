@@ -49,6 +49,10 @@ When I think about the future of my career, I get so excited. I feel I have so m
 I'm incredibly interested in machine learning and what I could do with it on the engineering front. I first formaly learnt about machine learning back in 2019, I stubbled accross a video on YouTube where a guy had used a generational evoulution machine learning algorithm, to simulate what how different species survive and evolve. 
 There are so many interesting fields in computer science like AI, Quantum computing and image recognition I think they're all so 
 
+I want to attend University, because I think a part of me still wants to be at the forefront of technology. I want to help shape the direction it takes, whether 
+
+**talk about safety**
+
 ## Unique Background 
 
 Most of my friends decided to go to college, then university after school, but at the time I was unsure about what I wanted to do. In the end, I decided to work for a packaging machinery manufacturing company, now called Westrock Automation (previously Linkx Packaging Systems), as an apprentice. I studied Mechanical and Electrical Engineering, and I worked with a whole array of machinery. I worked there for 5 years, picking up a lot of *really* useful skills along the way, until one day I decided to help start a company, Sportstore Ltd.
